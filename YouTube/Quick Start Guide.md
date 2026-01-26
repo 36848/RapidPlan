@@ -1,9 +1,42 @@
-1. New Plan wizard
-   
-2.import map
+## 1. New Plan Wizard
 
-import road auto, road many styles
+## 2. Import Map
+- Import roads automatically
+- Roads can have multiple styles
 
-auto legend/ show in legend false true
+## Legend
+- Auto legend
+- Show in legend: **True / False**
 
-note add image good/ add comment
+## Notes
+- Add image 
+- Add comment
+
+## Layout
+- Add layout
+- Add print region
+- Activate print region
+
+## Navigation / Finding Items
+- Use scroll to find the plan origin
+
+## Distance Display
+- Two ways to show distance:
+  - Default
+  - Custom text
+
+## Road Details
+- Press **Enter** to show more road details
+
+## Copy / Paste Styles
+- `Ctrl + C` → `Ctrl + Shift + V`   =  Copy styles
+- Can choose different shapes or roads
+
+## Duplicate
+- Duplicate style
+- Duplicate object
+
+## Maps
+- Choose different maps
+- Toggle base map visibility
+  - Show only part of the map
