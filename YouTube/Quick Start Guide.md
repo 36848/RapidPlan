@@ -27,6 +27,7 @@
 
 ## Road Details
 - Press **Enter** to show more road details
+- **ouble click**
 
 ## Copy / Paste Styles
 - `Ctrl + C` → `Ctrl + Shift + V`   =  Copy styles
