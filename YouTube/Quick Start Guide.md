@@ -34,8 +34,8 @@
 - Can choose different shapes or roads
 
 ## Duplicate
-- Duplicate style
-- Duplicate object
+- Duplicate style **Ctrl + Shift + D**
+- Duplicate object   **Ctrl + D**
 
 ## Maps
 - Choose different maps
