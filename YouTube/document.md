@@ -39,19 +39,17 @@
   - **Copy**: Duplicate the geometry while offsetting
 
 ## Dimensions Input Panel
-when you drawing , 
-Distance [D], d , input x m , enter,show a red cricle 
-Angle [A],a ,inpuut angle,enter 
-Offset [O], use (x,y) move x,y X：水平方向的偏移距离
-
-Y：垂直方向的偏移距离
-Offset 工具就是：从上一个控制点出发，用 X、Y 数值精确“平移”出下一个控制点
-
+When drawing
+- Distance [D], d : Enter a distance, e.g., x m, press Enter → a red circle appears.
+- Angle [A], a :Enter an angle, press Enter → shows the angle direction.
+- Offset [O], use (x,y) move x,y   
+   - X：水平方向的偏移距离Y：垂直方向的偏移距离
+   - Offset 工具就是：从上一个控制点出发，用 X、Y 数值精确“平移”出下一个控制点
 
 
 no need have a drawing object 
-Point [P] (x,y)
-Coordinates [C] (35.1561, -90.0519)latitude and longitude
+- Point [P] (x,y)
+- Coordinates [C] (35.1561, -90.0519) - latitude and longitude
 
 ## resizing objkects
 | 对比 / Comparison           | **Control Points (控制点缩放)**                                       | **Resize Handles (缩放手柄)**                                         |
@@ -64,20 +62,36 @@ Coordinates [C] (35.1561, -90.0519)latitude and longitude
 
 hold **Shift** while you resize, the length to width ratio of your object will be maintained
 
-ctrl + alt - resize on 3d
- ## Setting Custom Scale and Rotation Points
- first select object
- transform - scale- point/ center
- transform- roat --select rotation point- 90/180mdrgress
+**ctrl + alt** - resize on 3d
+
+## Setting Custom Scale and Rotation Points
+first select object
+ 
+Transform → Scale → Point/Center: choose scale point or center
+
+Transform → Rotate → Select Rotation Point → 90°/180°/custom angle
 
 
 
- ##Moving, Flipping and Rotating Objects Moving Objects
+## Moving, Flipping and Rotating Objects Moving Objects
 
- move: when use **shift** togeter, like orthogonal on the aucatcard
- Rotating: **ctrl  R** for 90 degress
- Micro rotate clockwise with Ctrl + Alt + R or counter-clockwise with Ctrl + Alt + E.
+- Moving Objects: Hold Shift for orthogonal movement (like AutoCAD)
+
+- Rotating Objects:
+
+  - Ctrl + R: rotate 90°
+
+  - Ctrl + Alt + R: micro rotate clockwise
+
+  - Ctrl + Alt + E: micro rotate counter-clockwise
 
 
- ##Grouping Objects
- selet objects( shitf/ use mouse) = group use Ctrl + G / ungroup = Ctrl + U
+## Grouping Objects
+
+ Group: select objects → Ctrl + G
+
+Ungroup: select group → Ctrl + U
+
+### Cropping Objects: Edit → Cropping
+
+ 
