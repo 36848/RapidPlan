@@ -41,3 +41,7 @@
 - Choose different maps
 - Toggle base map visibility
   - Show only part of the map
+  - f2 - setting
+
+
+###autoCAD covert use image/pdf/ export CAD
