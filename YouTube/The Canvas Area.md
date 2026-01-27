@@ -10,7 +10,7 @@ Once it is selected, Right click on the object  - Select Arrange
 - Alt + Page Down - Send backwards
 - Alt + End - Send to back
 
-## Measurement Tools
+##  Measurement Tools
 ## Print Frames
 
 设置默认打印框架（Setting a default frame）
@@ -26,3 +26,5 @@ Once it is selected, Right click on the object  - Select Arrange
 
 ### Anchoring frame objects
 
+## Using Line and Shape Tools
+- Auto Aligning Lines and Shapes : **shift** ----- keeps their second control point at 90º or 45º
