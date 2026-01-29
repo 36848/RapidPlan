@@ -31,6 +31,8 @@
 ### Rich Text Editor 
 - quickly copy data from an Excel table while keeping the format or structure
 
+### only can import AutoCad on model, but can't edit
+
   
 ### Geometry Distance Input
 - 能让你在复杂的道路几何形状上 快速、自动、精确 地绘制出指定长度的标线或锥形区/ safr zone
