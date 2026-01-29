@@ -28,3 +28,5 @@ Once it is selected, Right click on the object  - Select Arrange
 
 ## Using Line and Shape Tools
 - Auto Aligning Lines and Shapes : **shift** ----- keeps their second control point at 90º or 45º
+
+### zoomed view box
