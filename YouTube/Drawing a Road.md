@@ -4,7 +4,7 @@
 - iise control point to change the rpoad shape
 - Adding and removing Control Points
 
-### Manipulating Road Elements Using Width Handles : ctrl + H 
+### Manipulating Road Elements Using Width Handles : ctrl + H / show road width handles
 ### import road data == speed limit
 
 ## Properties of the Road Tool
